@@ -1,0 +1,4 @@
+[quattor]
+name=quattor
+baseurl=http://yum.quattor.org/13.9
+enabled=1
