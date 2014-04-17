@@ -1,5 +1,5 @@
 Name:           quattor-repo
-Version:        13.9.1
+Version:        14.2.1
 Release:        1
 Summary:        RPM Package containing quattor yum repository
 Group: 		System Environment/Base
@@ -32,5 +32,6 @@ cp -p %{SOURCE0} %{buildroot}%{_sysconfdir}/yum.repos.d/
 /etc/yum.repos.d/quattor.repo
 
 %changelog
+* Thu Apr 17 2014 Dimitrios Zilaskos  <dimitrios.zilaskos@stfc.ac.uk> 14.2.1
 * Tue Oct 01 2013 Dimitrios Zilaskos  <dimitrios.zilaskos@stfc.ac.uk> 13.9.1
 - This is the rpm installing quattor yum repo

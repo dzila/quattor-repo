@@ -1,4 +1,4 @@
 [quattor]
 name=quattor
-baseurl=http://yum.quattor.org/13.9
+baseurl=http://yum.quattor.org/14.2.1
 enabled=1
