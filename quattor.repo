@@ -2,3 +2,12 @@
 name=quattor
 baseurl=http://yum.quattor.org/14.2.1
 enabled=1
+
+[aquilon]
+name=aquilon
+baseurl=http://yum.quattor.org/aquilon
+enabled=1
+
+[quattor-externals]
+baseurl=http://yum.quattor.org/externals
+enabled=1
