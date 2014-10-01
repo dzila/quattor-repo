@@ -11,6 +11,7 @@ enabled=1
 gpgcheck=0
 
 [quattor-externals]
+name=quattor externals
 baseurl=http://yum.quattor.org/externals
 enabled=1
 gpgcheck=0
